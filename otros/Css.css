@@ -1,0 +1,66 @@
+.titu{
+    text-align: center;
+color: white;}
+.main{
+    background-color: black;
+    
+}
+.bosques{
+    background-color: green;
+}
+.bord{
+    flex: auto;
+    border: 5px white solid
+}
+.obj{
+    text-align: center;
+    font-size: 40px
+;color: white;
+}
+.contenedor {
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    gap: 80px; /* Espacio entre imágenes */
+}
+.pro{
+    font-size: 20px;
+    margin: 10px;
+    text-align: justify;
+    color: white;
+}
+.sep{
+    margin-left: 10%;
+    border: 3px white solid;
+}
+.item {
+    text-align: center; 
+    color: white; 
+    font-size: 25px;
+}
+.item a {
+    display: block; 
+}
+
+.item img {
+    width: 350px; 
+    height: 250px;
+    display: block; 
+    margin: 0 auto; 
+}
+
+.par{
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.volver{text-align: center;
+color: white;
+font-size: 30px;}
+
+.rio{background-color: aqua;}
+
+.FA{background-color: lawngreen;}
