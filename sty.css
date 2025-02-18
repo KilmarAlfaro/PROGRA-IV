@@ -12,13 +12,11 @@ body {
 footer {
     background-color: cyan;
     text-align: center;
-    padding: 20px;
     font-size: 18px;
     color: blue;
     font-weight: bold;
     position: relative;
     bottom: 0;
-    
     border: 2px white solid;
     
 }
@@ -45,6 +43,7 @@ header {
 .header-right {
     font-size: 14px;
     font-weight: bold;
+    margin-right: 5px;
 }
 
 
