@@ -18,9 +18,7 @@ footer {
     font-weight: bold;
     position: relative;
     bottom: 0;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-bottom: 5px;
+    
     border: 2px white solid;
     
 }
@@ -31,8 +29,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #f4f4f4;
-    padding: 10px;
-    width: 100%;
+   
     box-shadow: 0px 4px 2px -2px gray;
 }
 .header-left img {
