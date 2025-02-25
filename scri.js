@@ -47,11 +47,11 @@ customElements.define("mi-componente", MiComponente);
 
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("sunset").addEventListener("click", function() {
-        alert("Sunset Park El Salvador: Un parque de diversiones con una vista espectacular al océano.");
+        alert("Ubicado en el Puerto de La Libertad, conocido como la puerta de entrada a Surf City, este lugar es perfecto para comenzar o terminar un día de playa.");
     });
 
     document.getElementById("binaes").addEventListener("dblclick", function() {
-        alert("BINAES: La Biblioteca Nacional de El Salvador, un espacio cultural y de aprendizaje moderno.");
+        alert("La Biblioteca Nacional de El Salvador o simplemente BINAES es una institución pública nacional en El Salvador, fue reconstruida por el Gobierno de El Salvador con la cooperación del Gobierno de la República Popular China el 14 de noviembre de 2023.");
     });
 });
 
