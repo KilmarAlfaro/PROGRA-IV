@@ -10,14 +10,14 @@ body {
   
 }
 footer {
-    background-color: cyan;
+    background-color:lightskyblue;
     text-align: center;
     font-size: 18px;
     color: blue;
     font-weight: bold;
     position: relative;
     bottom: 0;
-    border: 2px white solid;
+    border: 1px white solid;
     
 }
 
